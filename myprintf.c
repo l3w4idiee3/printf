@@ -1,8 +1,4 @@
 #include "main.h"
-
-extern char buf[BUF_SIZE];
-extern unsigned int buf_idx;
-
 /**
  * _printf - print formatted string to stdout using variable number
  * of arguments
